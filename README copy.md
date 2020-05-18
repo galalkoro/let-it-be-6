@@ -1,7 +1,7 @@
 # power
 
-GALAL
-MARI
-SAYED
-ABEL
-LISA
+1. GALAL  
+2. MARI
+3. SAYED
+4. ABEL
+5. LISA
