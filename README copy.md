@@ -1,0 +1,7 @@
+# power
+
+GALAL
+MARI
+SAYED
+ABEL
+LISA
